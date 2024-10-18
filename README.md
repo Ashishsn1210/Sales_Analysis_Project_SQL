@@ -23,9 +23,13 @@ This project is an end-to-end analysis of a company's sales data. The dataset co
 | Rating | Customer satisfaction rating (on a scale of 1 to 10) |
 
 ## ⚙️ Tools I Used
+- VS Code
+- SQL
+- PostgreSQL
 
 ## 🧐 Analysis
 
-## ✏️ What I Learned
+## 📊 Insights
 
 ## 📝 Conclusion
+This project provided valuable insights into the sales performance of a retail company, demonstrating the importance of data-driven decision-making in business. Using SQL, I was able to explore key aspects of sales, customer behavior, and profitability across different regions, product categories, and customer segments.
