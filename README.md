@@ -31,6 +31,8 @@ This project is an end-to-end analysis of a company's sales data. The dataset co
 Each query in this project aimed at investigating specific aspects of a sales analysis project.
 Here's how I approached each question:
 
+
+
 ### 
 
 ## 📊 Insights
