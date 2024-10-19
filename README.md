@@ -5,7 +5,7 @@ This project is an end-to-end analysis of a company's sales data. The dataset co
 | Column Name | Description |
 | ------------- | ------------- |
 | Invoice ID  | Unique ID for each sales transaction (invoice)  |
-| Branch  | Branch where the sale took place (A, B, C)  |
+| Branch  | Branch where the sale took place |
 | City | City in which the branch is located |
 | Customer type | Type of customer (Member or Normal) |
 | Gender | Gender of the customer making the purchase |
