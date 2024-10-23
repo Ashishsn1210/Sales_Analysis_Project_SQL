@@ -79,23 +79,23 @@ Each query in this project aimed at investigating specific aspects of the sales 
 Based on the analysis performed, here are the key insights and recommendations that can contribute to the company’s business growth and development:
 
 ### 1. Optimize Sales During Peak Times
-Insight: Sales are significantly higher during the Afternoon compared to Morning or Evening.
+Sales are significantly higher during the Afternoon compared to Morning or Evening.
 Recommendation: The company can boost marketing efforts, promotional campaigns, and staffing during peak afternoon sales hours to further enhance sales performance. Offering time-based discounts in slower periods (Morning/Evening) could also drive more transactions.
 
 ### 2. Expand Best-Selling Product Lines
-Insight: Food and Beverages, Sports and Travel, and Electronic Accessories are the top-performing product lines.
+Food and Beverages, Sports and Travel, and Electronic Accessories are the top-performing product lines.
 Recommendation: Increase inventory for top-selling product lines to meet demand and minimize stockouts. Additionally, promote these products in marketing campaigns and introduce complementary products to capitalize on high customer interest.
 
 ### 3. Focus on High-Performing Branches and Cities
-Insight: The branch in Naypyitaw and Branch C outperform other locations in terms of sales and gross income.
+The branch in Naypyitaw and Branch C outperform other locations in terms of sales and gross income.
 Recommendation: Allocate more resources (staffing, inventory, marketing budget) to high-performing locations to maximize sales. Additionally, investigate potential reasons for lower performance in other branches/cities and implement strategies to improve them.
 
 ### 4. Leverage Time-Based Promotions
-Insight: Sales trends show clear patterns over the day and across seasons.
+Sales trends show clear patterns over the day and across seasons.
 Recommendation: Implement time-sensitive discounts or seasonal promotions to stimulate demand during slow sales periods. This could include limited-time offers or holiday promotions to take advantage of seasonal fluctuations.
 
 ### 5. Improve Profitability by Controlling COGS
-Insight: The relationship between COGS and Total Sales highlights areas where profitability can be improved by reducing costs.
+The relationship between COGS and Total Sales highlights areas where profitability can be improved by reducing costs.
 Recommendation: Review supplier contracts, negotiate better pricing, and optimize operational efficiency to reduce COGS while maintaining product quality. This will lead to higher profits without increasing prices.
 
 
