@@ -1,4 +1,4 @@
-## 🙏 Introduction
+## 🤝 Introduction
 This project is an end-to-end analysis of a company's sales data. The dataset contains sales transactions of a company, including details about products sold, customer demographics, branch locations, and sales performance metrics. The purpose of this project is to extract meaningful insights from the data by analyzing sales trends, customer behavior, product performance, and profitability.
 
 ## 📚 About The Data
